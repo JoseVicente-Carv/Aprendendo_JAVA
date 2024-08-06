@@ -25,7 +25,7 @@ public class JAVAExemplo1 {
         //concatenando (ligando, relacionando) com o sinal de "+"
         System.out.println("O nome do usuário é: " + nome);
         System.out.println("O CPF do usuário é: " + CPF);
-        System.out.println("A idade do usuário é: " + idade + "anos");
-        System.out.println("O peso do usário é: " + peso + "quilos");
+        System.out.println("A idade do usuário é: " + idade + " anos");
+        System.out.println("O peso do usário é: " + peso + " quilos");
     }
 }

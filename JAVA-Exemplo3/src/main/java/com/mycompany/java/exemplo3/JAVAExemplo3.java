@@ -4,7 +4,7 @@
 
 package com.mycompany.java.exemplo3;
 
-import java.util.Scanner;
+import java.util.Scanner; //biblioteca importada automaticamente??
 
 /**
  *
