@@ -4,7 +4,7 @@
 
 package com.mycompany.java.exemplo3;
 
-import java.util.Scanner; //biblioteca importada automaticamente??
+import java.util.Scanner; //biblioteca importada automaticamente. Permite que a leitura de caracteres digitados.
 
 /**
  *
@@ -13,7 +13,7 @@ import java.util.Scanner; //biblioteca importada automaticamente??
 public class JAVAExemplo3 {
 
     public static void main(String[] args) {
-        Scanner teclado = new Scanner(System.in); //apertei Ctrl + espaço e automaticamente importou uma biblioteca(?)
+        Scanner teclado = new Scanner(System.in); //apertei Ctrl + espaço e automaticamente importou a biblioteca Scanner.
         
         System.out.println("Digite seu nome: "); 
         String nome = teclado.next();
